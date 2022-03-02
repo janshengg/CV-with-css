@@ -1,0 +1,179 @@
+
+body{
+  margin: 0;
+  text-align: center;
+}
+
+p {
+  font-family: Luminari, monospace;
+  font-size: 23px;
+  color: #F3F0D7;
+}
+
+h1 {
+      color: #F3F0D7;
+      margin-top: 0px;
+      margin-bottom: 0;
+      font-family: 'Lucida Handwriting', cursive;
+      font-size: 5.625rem;
+      padding-top: 153px;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 2.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color: #F3F0D7;
+    font-family: 'Ink Free', sans-serif;
+    font-size: 2rem;
+}
+
+h3 {
+  font-family: Century;
+  font-size: 47px;
+}
+
+hr {
+    border: dotted #FAF3E0 6px;
+    border-bottom: none;
+    width: 10%;
+}
+
+.mountain {
+    width: 1263px;
+    height: 470px;
+    position: relative;
+    top: 10px;
+}
+.top-container {
+  background-color: #A1CAE2;
+}
+
+.middle-container {
+  background-color: #C2B092;
+  height: 3300px;
+}
+
+.bottom-container {
+    background-color: #EF8D32;
+    padding: 50px 0 10px;
+}
+.bisdig {
+  text-decoration: underline;
+}
+
+.cloud {
+  position: absolute;
+    right: 72px;
+    top: 42px;
+}
+
+.cloud2 {
+  position: absolute;
+}
+
+.jansen-image {
+    width: 200px;
+    border-radius: 100%;
+    height: 200px;
+    position: relative;
+    top: 50px;
+}
+
+.introduction {
+  font-family: papyrus;
+  width: 30%;
+  margin: auto;
+}
+
+.introduction-edu {
+  font-family: papyrus;
+  color: black;
+  width: 50%;
+  margin: auto;
+}
+
+.education-line {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.gonz {
+  border-radius: 0%;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.bem {
+  width: 180px;
+  height: 170px;
+}
+
+.contactme-p {
+  font-family: papyrus;
+  width: 30%;
+  margin: auto;
+  color: #393232;
+}
+
+.keyword {
+  font-family: papyrus;
+  width: 30%;
+  margin: auto;
+  color: #393232;
+  text-decoration: underline;
+  font-weight: bolder;
+}
+
+.btn {
+    background: #6a9aba;
+    background-image: -webkit-linear-gradient(top, #6a9aba, #355C7D);
+    background-image: -moz-linear-gradient(top, #6a9aba, #355C7D);
+    background-image: -ms-linear-gradient(top, #6a9aba, #355C7D);
+    background-image: -o-linear-gradient(top, #6a9aba, #355C7D);
+    background-image: linear-gradient(to bottom, #6a9aba, #355C7D);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    position: relative;
+    top: 60px;
+}
+
+.underline-h2 {
+  display: block;
+  font-size: 1.5em;
+  margin-block-start: 2.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  color: #F3F0D7;
+  font-family: 'Ink Free', sans-serif;
+  font-size: 2rem;
+  text-decoration: underline;
+}
+
+.copyright {
+  font-family: 'Poppins', sans-serif;
+    line-height: 2;
+    font-size: 12px;
+    color: #F3F0D7;
+}
+
+.bottom-link {
+  color: #383E56;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
